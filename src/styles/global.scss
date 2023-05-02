@@ -1,0 +1,19 @@
+$black: #000000;
+$gray: #7d7d7d;
+$lightGray: #e5e5e5;
+$lighterGray: #f3f3f3;
+$white: #ffffff;
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-size: 62.5%;
+}
+
+.galleryContainer {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+}
