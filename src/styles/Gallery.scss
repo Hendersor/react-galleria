@@ -16,6 +16,11 @@
     flex-direction: column;
     position: relative;
     margin: 30px;
+    cursor: pointer;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.5);
+    border: 10px solid #9d9d9d;
+    border-bottom-color: #c7c7c7;
+    border-right-color: #c7c7c7;
 
     .paintInfo {
       color: white;
@@ -29,10 +34,10 @@
         font-size: 1.2rem;
       }
       position: absolute;
-      bottom: 30px;
+      bottom: 0px;
       width: 100%;
       height: 70px;
-      background-color: transparent;
+      background: linear-gradient(to top, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0));
       padding-left: 20px;
       font-family: "Libre Baskerville", serif;
     }
