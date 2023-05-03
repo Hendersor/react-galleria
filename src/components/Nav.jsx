@@ -13,7 +13,7 @@ const Nav = ({ handleInput }) => {
         </figure>
 
         <div className="navContainer__input">
-          <input onChange={handleInput} type="text" />
+          <input onChange={handleInput} type="text" placeholder="Paint name" />
         </div>
       </div>
 

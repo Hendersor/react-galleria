@@ -42,7 +42,6 @@ const App = () => {
           />
         ))}
       </section>
-      ;
     </main>
   );
 };
