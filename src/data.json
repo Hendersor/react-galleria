@@ -9,12 +9,12 @@
       "name": "Vincent Van Gogh"
     },
     "images": {
-      "thumbnail": "./assets/starry-night/thumbnail.jpg",
+      "thumbnail": "https://res.cloudinary.com/dwdz4mn27/image/upload/v1682998555/assets/starry-night/thumbnail_ahbbc0.jpg",
       "hero": {
         "small": "./assets/starry-night/hero-small.jpg",
         "large": "./assets/starry-night/hero-large.jpg"
       },
-      "gallery": "./assets/starry-night/gallery.jpg"
+      "gallery": "https://res.cloudinary.com/dwdz4mn27/image/upload/v1682998555/assets/starry-night/gallery_zrdm93.jpg"
     }
   },
   {
@@ -27,12 +27,12 @@
       "name": "Johannes Vermeer"
     },
     "images": {
-      "thumbnail": "./assets/girl-with-pearl-earring/thumbnail.jpg",
+      "thumbnail": "https://res.cloudinary.com/dwdz4mn27/image/upload/v1682998565/assets/girl-with-pearl-earring/thumbnail_cwudfy.jpg",
       "hero": {
         "small": "./assets/girl-with-pearl-earring/hero-small.jpg",
         "large": "./assets/girl-with-pearl-earring/hero-large.jpg"
       },
-      "gallery": "./assets/girl-with-pearl-earring/gallery.jpg"
+      "gallery": "https://res.cloudinary.com/dwdz4mn27/image/upload/v1682998564/assets/girl-with-pearl-earring/gallery_mfzbkd.jpg"
     }
   },
   {
@@ -45,12 +45,12 @@
       "name": "Pablo Picasso"
     },
     "images": {
-      "thumbnail": "./assets/guernica/thumbnail.jpg",
+      "thumbnail": "https://res.cloudinary.com/dwdz4mn27/image/upload/v1682998554/assets/guernica/thumbnail_q1lgl1.jpg",
       "hero": {
         "small": "./assets/guernica/hero-small.jpg",
         "large": "./assets/guernica/hero-large.jpg"
       },
-      "gallery": "./assets/guernica/gallery.jpg"
+      "gallery": "https://res.cloudinary.com/dwdz4mn27/image/upload/v1682998554/assets/guernica/gallery_kf71wr.jpg"
     }
   },
   {
@@ -63,12 +63,12 @@
       "name": "Artemisia Gentileschi"
     },
     "images": {
-      "thumbnail": "./assets/penitent-magdalene/thumbnail.jpg",
+      "thumbnail": "https://res.cloudinary.com/dwdz4mn27/image/upload/v1682998555/assets/penitent-magdalene/thumbnail_okenxo.jpg",
       "hero": {
         "small": "./assets/penitent-magdalene/hero-small.jpg",
         "large": "./assets/penitent-magdalene/hero-large.jpg"
       },
-      "gallery": "./assets/penitent-magdalene/gallery.jpg"
+      "gallery": "https://res.cloudinary.com/dwdz4mn27/image/upload/v1682998555/assets/penitent-magdalene/gallery_s39rvq.jpg"
     }
   },
   {
@@ -81,12 +81,12 @@
       "name": "Rembrandt"
     },
     "images": {
-      "thumbnail": "./assets/the-storm-on-the-sea-of-galilee/thumbnail.jpg",
+      "thumbnail": "https://res.cloudinary.com/dwdz4mn27/image/upload/v1682998568/assets/the-storm-on-the-sea-of-galilee/thumbnail_aojcrt.jpg",
       "hero": {
         "small": "./assets/the-storm-on-the-sea-of-galilee/hero-small.jpg",
         "large": "./assets/the-storm-on-the-sea-of-galilee/hero-large.jpg"
       },
-      "gallery": "./assets/the-storm-on-the-sea-of-galilee/gallery.jpg"
+      "gallery": "https://res.cloudinary.com/dwdz4mn27/image/upload/v1682998557/assets/the-storm-on-the-sea-of-galilee/gallery_octwz5.jpg"
     }
   },
   {
@@ -99,12 +99,12 @@
       "name": "Hokusai"
     },
     "images": {
-      "thumbnail": "./assets/the-great-wave-off-kanagawa/thumbnail.jpg",
+      "thumbnail": "https://res.cloudinary.com/dwdz4mn27/image/upload/v1682998575/assets/the-great-wave-off-kanagawa/thumbnail_uv22zg.jpg",
       "hero": {
         "small": "./assets/the-great-wave-off-kanagawa/hero-small.jpg",
         "large": "./assets/the-great-wave-off-kanagawa/hero-large.jpg"
       },
-      "gallery": "./assets/the-great-wave-off-kanagawa/gallery.jpg"
+      "gallery": "https://res.cloudinary.com/dwdz4mn27/image/upload/v1682998575/assets/the-great-wave-off-kanagawa/gallery_e2yw5k.jpg"
     }
   },
   {
@@ -117,12 +117,12 @@
       "name": "Vincent Van Gogh"
     },
     "images": {
-      "thumbnail": "./assets/van-gogh-self-portrait/thumbnail.jpg",
+      "thumbnail": "https://res.cloudinary.com/dwdz4mn27/image/upload/v1682998575/assets/van-gogh-self-portrait/thumbnail_jtzxhi.jpg",
       "hero": {
         "small": "./assets/van-gogh-self-portrait/hero-small.jpg",
         "large": "./assets/van-gogh-self-portrait/hero-large.jpg"
       },
-      "gallery": "./assets/van-gogh-self-portrait/gallery.jpg"
+      "gallery": "https://res.cloudinary.com/dwdz4mn27/image/upload/v1682998567/assets/van-gogh-self-portrait/gallery_h1oinr.jpg"
     }
   },
   {
@@ -135,12 +135,12 @@
       "name": "Henri Rousseau"
     },
     "images": {
-      "thumbnail": "./assets/the-sleeping-gypsy/thumbnail.jpg",
+      "thumbnail": "https://res.cloudinary.com/dwdz4mn27/image/upload/v1682998566/assets/the-sleeping-gypsy/thumbnail_wfnb8b.jpg",
       "hero": {
         "small": "./assets/the-sleeping-gypsy/hero-small.jpg",
         "large": "./assets/the-sleeping-gypsy/hero-large.jpg"
       },
-      "gallery": "./assets/the-sleeping-gypsy/gallery.jpg"
+      "gallery": "https://res.cloudinary.com/dwdz4mn27/image/upload/v1682998565/assets/the-sleeping-gypsy/gallery_f1t1fv.jpg"
     }
   },
   {
@@ -153,12 +153,12 @@
       "name": "Leonardo da Vinci"
     },
     "images": {
-      "thumbnail": "./assets/lady-with-an-ermine/thumbnail.jpg",
+      "thumbnail": "https://res.cloudinary.com/dwdz4mn27/image/upload/v1682998566/assets/lady-with-an-ermine/thumbnail_agsohq.jpg",
       "hero": {
         "small": "./assets/lady-with-an-ermine/hero-small.jpg",
         "large": "./assets/lady-with-an-ermine/hero-large.jpg"
       },
-      "gallery": "./assets/lady-with-an-ermine/gallery.jpg"
+      "gallery": "https://res.cloudinary.com/dwdz4mn27/image/upload/v1682998566/assets/lady-with-an-ermine/gallery_is9ffj.jpg"
     }
   },
   {
@@ -171,12 +171,12 @@
       "name": "Vincent Van Gogh"
     },
     "images": {
-      "thumbnail": "./assets/the-night-cafe/thumbnail.jpg",
+      "thumbnail": "https://res.cloudinary.com/dwdz4mn27/image/upload/v1682998574/assets/the-night-cafe/thumbnail_cwgtu2.jpg",
       "hero": {
         "small": "./assets/the-night-cafe/hero-small.jpg",
         "large": "./assets/the-night-cafe/hero-large.jpg"
       },
-      "gallery": "./assets/the-night-cafe/gallery.jpg"
+      "gallery": "https://res.cloudinary.com/dwdz4mn27/image/upload/v1682998568/assets/the-night-cafe/gallery_rl9tkg.jpg"
     }
   },
   {
@@ -189,12 +189,12 @@
       "name": "Paul Cézanne"
     },
     "images": {
-      "thumbnail": "./assets/the-basket-of-apples/thumbnail.jpg",
+      "thumbnail": "https://res.cloudinary.com/dwdz4mn27/image/upload/v1682998556/assets/the-basket-of-apples/thumbnail_usjqiy.jpg",
       "hero": {
         "small": "./assets/the-basket-of-apples/hero-small.jpg",
         "large": "./assets/the-basket-of-apples/hero-large.jpg"
       },
-      "gallery": "./assets/the-basket-of-apples/gallery.jpg"
+      "gallery": "https://res.cloudinary.com/dwdz4mn27/image/upload/v1682998556/assets/the-basket-of-apples/gallery_oaxdmc.jpg"
     }
   },
   {
@@ -207,12 +207,12 @@
       "name": "Paul Cézanne"
     },
     "images": {
-      "thumbnail": "./assets/the-boy-in-the-red-vest/thumbnail.jpg",
+      "thumbnail": "https://res.cloudinary.com/dwdz4mn27/image/upload/v1682998568/assets/the-boy-in-the-red-vest/thumbnail_pi4g1g.jpg",
       "hero": {
         "small": "./assets/the-boy-in-the-red-vest/hero-small.jpg",
         "large": "./assets/the-boy-in-the-red-vest/hero-large.jpg"
       },
-      "gallery": "./assets/the-boy-in-the-red-vest/gallery.jpg"
+      "gallery": "https://res.cloudinary.com/dwdz4mn27/image/upload/v1682998567/assets/the-boy-in-the-red-vest/gallery_kjzxnh.jpg"
     }
   },
   {
@@ -225,12 +225,12 @@
       "name": "Jan van Eyck"
     },
     "images": {
-      "thumbnail": "./assets/arnolfini-portrait/thumbnail.jpg",
+      "thumbnail": "https://res.cloudinary.com/dwdz4mn27/image/upload/v1682998556/assets/arnolfini-portrait/thumbnail_ucd23t.jpg",
       "hero": {
         "small": "./assets/arnolfini-portrait/hero-small.jpg",
         "large": "./assets/arnolfini-portrait/hero-large.jpg"
       },
-      "gallery": "./assets/arnolfini-portrait/gallery.jpg"
+      "gallery": "https://res.cloudinary.com/dwdz4mn27/image/upload/v1682998556/assets/arnolfini-portrait/gallery_sixpt7.jpg"
     }
   },
   {
@@ -243,12 +243,12 @@
       "name": "Leonardo da Vinci"
     },
     "images": {
-      "thumbnail": "./assets/mona-lisa/thumbnail.jpg",
+      "thumbnail": "https://res.cloudinary.com/dwdz4mn27/image/upload/v1682998568/assets/mona-lisa/thumbnail_zr1vdj.jpg",
       "hero": {
         "small": "./assets/mona-lisa/hero-small.jpg",
         "large": "./assets/mona-lisa/hero-large.jpg"
       },
-      "gallery": "./assets/mona-lisa/gallery.jpg"
+      "gallery": "https://res.cloudinary.com/dwdz4mn27/image/upload/v1682998566/assets/mona-lisa/gallery_skb5r5.jpg"
     }
   },
   {
@@ -261,12 +261,12 @@
       "name": "Jean-Honoré Fragonard"
     },
     "images": {
-      "thumbnail": "./assets/the-swing/thumbnail.jpg",
+      "thumbnail": "https://res.cloudinary.com/dwdz4mn27/image/upload/v1682998575/assets/the-swing/thumbnail_sjbihp.jpg",
       "hero": {
         "small": "./assets/the-swing/hero-small.jpg",
         "large": "./assets/the-swing/hero-large.jpg"
       },
-      "gallery": "./assets/the-swing/gallery.jpg"
+      "gallery": "https://res.cloudinary.com/dwdz4mn27/image/upload/v1682998567/assets/the-swing/gallery_mw3j9z.jpg"
     }
   }
 ]

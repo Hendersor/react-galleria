@@ -1,7 +1,7 @@
 import React from "react";
 import "../styles/NavMobile.scss";
 
-const Nav = () => {
+const Nav = ({ handleInput }) => {
   return (
     <nav className="navContainer">
       <div className="navContainer__inputContainer">
@@ -13,7 +13,7 @@ const Nav = () => {
         </figure>
 
         <div className="navContainer__input">
-          <input type="text" />
+          <input onChange={handleInput} type="text" />
         </div>
       </div>
 
