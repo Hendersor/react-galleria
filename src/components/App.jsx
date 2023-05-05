@@ -2,6 +2,7 @@ import React, { useState } from "react";
 import data from "../data.json";
 import { Nav } from "./Nav";
 import { Paint } from "./Paint";
+import { Modal } from "./Modal";
 import "../styles/global.scss";
 import "../styles/Gallery.scss";
 
@@ -29,6 +30,16 @@ const App = () => {
     // Actualizamos el estado de la data filtrada
     setPaitSearched(filterData);
   };
+
+  // Logica para el modal
+  const [modal, setModal] = useState(false);
+  const [imageUrl, setImageUrl] = useState("");
+
+  const toggleModal = (event) => {
+    const imageUrlSelected = event.target.src;
+    setImageUrl(imageUrlSelected);
+    setModal(!modal);
+  };
   return (
     <main className="galleryContainer">
       <Nav handleInput={handleInput} />
@@ -39,9 +50,11 @@ const App = () => {
             urlGallery={p.images.thumbnail}
             artist={p.artist.name}
             name={p.name}
+            selectPaint={toggleModal}
           />
         ))}
       </section>
+      {modal && <Modal url={imageUrl} />}
     </main>
   );
 };
