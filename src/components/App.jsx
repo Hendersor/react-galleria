@@ -5,6 +5,7 @@ import { Paint } from "./Paint";
 import { Modal } from "./Modal";
 import "../styles/global.scss";
 import "../styles/Gallery.scss";
+import "../styles/Modal.scss";
 
 const App = () => {
   // Este es el estado para el valor de busqueda dentro del input
@@ -40,6 +41,11 @@ const App = () => {
     setImageUrl(imageUrlSelected);
     setModal(!modal);
   };
+
+  const closeModal = () => {
+    console.log("Hola");
+    setModal(false);
+  };
   return (
     <main className="galleryContainer">
       <Nav handleInput={handleInput} />
@@ -54,7 +60,7 @@ const App = () => {
           />
         ))}
       </section>
-      {modal && <Modal url={imageUrl} />}
+      {modal && <Modal url={imageUrl} closeModal={closeModal} />}
     </main>
   );
 };
