@@ -37,14 +37,13 @@ const App = () => {
   const [imageUrl, setImageUrl] = useState("");
 
   const toggleModal = (event) => {
-    document.body.classList.toggle("modal-open");
+    console.log(event);
     const imageUrlSelected = event.target.src;
     setImageUrl(imageUrlSelected);
     setModal(!modal);
   };
 
   const closeModal = () => {
-    document.body.classList.toggle("modal-open");
     setModal(false);
   };
   return (

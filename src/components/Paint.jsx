@@ -9,7 +9,7 @@ const Paint = ({ urlGallery, artist, name, selectPaint }) => {
         alt="paintPicture"
         onClick={selectPaint}
       />
-      <div src={urlGallery} className="paintInfo" onClick={selectPaint}>
+      <div className="paintInfo">
         <h1>{name}</h1>
         <h3>{artist}</h3>
       </div>

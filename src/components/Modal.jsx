@@ -3,9 +3,9 @@ import "../styles/Modal.scss";
 
 const Modal = ({ url, closeModal }) => {
   return (
-    <div className="modal" onClick={closeModal}>
+    <div className="modal">
       <div className="overlay"></div>
-      <div className="modalContent">
+      <div className="modalContent" onClick={closeModal}>
         <img src={url} alt="" />
         <figure>
           <img src="" alt="" />
