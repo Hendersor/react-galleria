@@ -1,6 +1,6 @@
 .paintContainer {
   height: auto;
-  width: 100vw;
+  width: 100%;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -15,7 +15,7 @@
     justify-content: center;
     flex-direction: column;
     position: relative;
-    margin: 30px;
+    margin: 25px;
     cursor: pointer;
     box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.5);
     border: 10px solid #9d9d9d;

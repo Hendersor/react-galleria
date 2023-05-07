@@ -37,13 +37,13 @@ const App = () => {
   const [imageUrl, setImageUrl] = useState("");
 
   const toggleModal = (event) => {
+    console.log(event.target);
     const imageUrlSelected = event.target.src;
     setImageUrl(imageUrlSelected);
     setModal(!modal);
   };
 
   const closeModal = () => {
-    console.log("Hola");
     setModal(false);
   };
   return (
